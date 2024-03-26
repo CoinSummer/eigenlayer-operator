@@ -2,6 +2,6 @@
     "name": "eigenlayer-operator-holesky",
     "website": "https://coinsummer.io/",
     "description": "EigerLayer operator on Holesky",
-    "logo": "https://avatars.githubusercontent.com/u/40765164?s=200&v=4",
+    "logo": "https://raw.githubusercontent.com/CoinSummer/eigenlayer-operator/main/cs_logo.png",
     "twitter": "https://twitter.com/coin_summer"
 }
